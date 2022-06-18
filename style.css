@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+    font-style:oblique;
+}
+h1{
+    color: rgb(126, 246, 154);
+    background-color: blueviolet;
+} 
+button{
+
+    font-size: large;
+    background-color: rgb(13, 13, 13);
+    color: aliceblue;
+    cursor: pointer;
+   border-radius: 10px;
+   border-color: rgb(7, 144, 119);
+}
